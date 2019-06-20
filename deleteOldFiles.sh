@@ -2,10 +2,10 @@
 
 ## Script name:  deleteOldFiles.sh
 ## Author:       Aaron Stovall
-## Date:  		 06/20/2019
+## Date:  	 06/20/2019
 ##
 ## Description:  Checks Files in a Specified Directory to see if they are older than
-##				 the specified number of days.  
+##		 the specified number of days.  
 ##
 ## Dependencies: JAMF Enrolled Mac
 ##				  
